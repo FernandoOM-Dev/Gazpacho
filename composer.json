@@ -1,6 +1,7 @@
 {
     "name": "fernando/gazpacho",
     "description": "I like gazpacho soup,",
+    "type": "library",
     "license": "MIT",
     "keywords": ["gazpacho"],
     "authors": [
