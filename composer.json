@@ -1,0 +1,21 @@
+{
+    "name": "fernando/gazpacho",
+    "description": "I like gazpacho soup,",
+    "license": "MIT",
+    "keywords": ["gazpacho"],
+    "authors": [
+        {
+            "name": "Fernando Ordaz",
+            "email": "fernando.ordm@gmail.com",
+            "homepage": "http://fernando.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fernando\\Gazpacho\\": "src"
+        }
+    }
+}
